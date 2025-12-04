@@ -1,0 +1,42 @@
+{
+  "errors": {
+    "fetchAsociados": "Error loading associates",
+    "unknown": "Unknown error",
+    "request": "Request error",
+    "sameState": "The state has not changed",
+    "invalidTransition": "Cannot change from \"{{from}}\" to \"{{to}}\"",
+    "paymentRequired": "Cannot advance to \"Pending Legal\" without the $49,900 contribution paid"
+  },
+  "success": {
+    "updateEstado": "State updated successfully"
+  },
+  "labels": {
+    "filterByState": "Filter by State",
+    "editAsociado": "Edit associate",
+    "state": "State:",
+    "paymentStatus": "Contribution $49,900:",
+    "paid": "Paid",
+    "pending": "Pending",
+    "lastUpdate": "Last update:",
+    "selectNewState": "Select new state",
+    "currentState": "Current state:",
+    "newState": "New state:",
+    "cancel": "Cancel",
+    "save": "Save",
+    "loading": "Loading...",
+    "noAsociados": "No associates found",
+    "asociadosList": "Associates List",
+    "systemTitle": "COAVANCOL - Management System"
+  },
+  "estados": {
+    "Todos": "All",
+    "Prospecto": "Prospect",
+    "Expediente en Construcción": "File in Construction",
+    "Pendiente Jurídico": "Pending Legal",
+    "Pendiente Cierre de Crédito": "Pending Credit Closure",
+    "Pendiente Firma y Litivo": "Pending Signature and Litigation",
+    "Pendiente Revisión Abogado": "Pending Lawyer Review",
+    "Cartera Activa": "Active Portfolio",
+    "Desembolsado/Finalizado": "Disbursed/Finalized"
+  }
+}

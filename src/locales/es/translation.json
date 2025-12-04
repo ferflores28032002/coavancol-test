@@ -1,0 +1,42 @@
+{
+  "errors": {
+    "fetchAsociados": "Error al cargar los asociados",
+    "unknown": "Error desconocido",
+    "request": "Error en la petición",
+    "sameState": "El estado no ha cambiado",
+    "invalidTransition": "No se puede cambiar de \"{{from}}\" a \"{{to}}\"",
+    "paymentRequired": "No se puede avanzar a \"Pendiente Jurídico\" sin el aporte de $49,900 pagado"
+  },
+  "success": {
+    "updateEstado": "Estado actualizado correctamente"
+  },
+  "labels": {
+    "filterByState": "Filtrar por Estado",
+    "editAsociado": "Editar asociado",
+    "state": "Estado:",
+    "paymentStatus": "Aporte $49,900:",
+    "paid": "Pagado",
+    "pending": "Pendiente",
+    "lastUpdate": "Última actualización:",
+    "selectNewState": "Seleccionar nuevo estado",
+    "currentState": "Estado actual:",
+    "newState": "Nuevo estado:",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "loading": "Cargando...",
+    "noAsociados": "No se encontraron asociados",
+    "asociadosList": "Lista de Asociados",
+    "systemTitle": "COAVANCOL - Sistema de Gestión"
+  },
+  "estados": {
+    "Todos": "Todos",
+    "Prospecto": "Prospecto",
+    "Expediente en Construcción": "Expediente en Construcción",
+    "Pendiente Jurídico": "Pendiente Jurídico",
+    "Pendiente Cierre de Crédito": "Pendiente Cierre de Crédito",
+    "Pendiente Firma y Litivo": "Pendiente Firma y Litivo",
+    "Pendiente Revisión Abogado": "Pendiente Revisión Abogado",
+    "Cartera Activa": "Cartera Activa",
+    "Desembolsado/Finalizado": "Desembolsado/Finalizado"
+  }
+}
